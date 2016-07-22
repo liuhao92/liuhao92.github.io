@@ -27,9 +27,9 @@ keyword: ""
 
 # SNS settings
 # RSS: false
-weibo_username:     千言离殇
+weibo_username: 千言离殇
 # zhihu_username:     Demonbane
-github_username:    liuhao92
+github_username: liuhao92
 # twitter_username:   Demonbane_x
 # facebook_username:  demonbane.cn
 # linkedin_username:  kaijun-chen-42089354
@@ -58,7 +58,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "博客来源于生活!"
-sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: uploads/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # Featured Tags
